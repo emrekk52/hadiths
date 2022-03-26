@@ -1,0 +1,443 @@
+[
+{
+"Daily_Question_Author":"Kalp hastalarının dilaltı hapı kullanması orucu bozar mı?",
+"Daily_Question":"Bazı kalp rahatsızlıklarında dilaltına konulan ilaç, doğrudan ağız dokusu tarafından emilip kana karışarak kalp krizini önlemektedir. Söz konusu ilaç, ağız içinde emilip yok olduğundan mideye bir şey ulaşmamaktadır. Bu itibarla, dilaltı hapı kullanmak orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Her gün hap kullanmak zorunda olan hastaların oruç tutmaları gerekir mi?",
+"Daily_Question":"Hastalık, Ramazan'da oruç tutmamayı mubah kılan özürlerdendir. Bir kimsenin oruç tuttuğu takdirde hastalanacağı, hasta ise hastalığının artacağı tıbben veya tecrübe ile sabit olursa oruç tutmayabilir. İyi olunca da yalnız yediği günler sayısınca kaza etmesi gerekir. Âyet-i Kerime' de ”Sizden her kim hasta yahut yolcu olursa tutamadığı günler sayısınca diğer günlerde oruç tutar” buyrulmuştur (Bakara, 2/184). Ömrü boyunca bu durumda hasta olan kişiler ise, her gün için bir fidye verirler. Yoksul ve muhtaç kişilerin fidye vermeleri de gerekmez. Zira dinimizde hiç kimse, gücünün üstünde bir sorumlulukla yükümlü tutulmamıştır."
+},
+{
+"Daily_Question_Author":"İğne yaptırmak, hastaya serum ve kan vermek orucu bozar mı?",
+"Daily_Question":"İğnenin orucu bozup bozmayacağı, kullanılış amacına göre değerlendirilebilir. Ağrıyı dindirmek, tedavi etmek, vücudun direncini artırmak, gıda vermek gibi amaçlarla enjeksiyon yapılmaktadır. Gıda ve keyif verici olmayan enjeksiyonlar, yemek ve içmek anlamına gelmediklerinden orucu bozmazlar. Ancak gıda ve/veya keyif verici enjeksiyonlar orucu bozar. Hastaya serum veya kan verilmesi de, aynı hükme tabidir."
+},
+{
+"Daily_Question_Author":"Oruçlu kimsenin dişlerini tedavi ettirmesi orucu bozar mı?",
+"Daily_Question":"Oruçlu bir kimsenin morfinli veya morfinsiz olarak dişlerini tedavi ettirmesi veya çektirmesi orucu bozmaz. Ancak tedavi esnasında, kan veya tedavide kullanılan maddelerden herhangi bir şeyin yutulması orucu bozar."
+},
+{
+"Daily_Question_Author":"Ramazan orucu kimlere farzdır?",
+"Daily_Question":"Akıllı, ergenlik çağına ulaşmış ve oruç tutmasına engel bir mazereti olmayan her Müslüman'ın Ramazan orucunu tutması farzdır."
+},
+{
+"Daily_Question_Author":"Unutarak yemek, içmek orucu bozar mı? ",
+"Daily_Question":"Unutarak yemek, içmek orucu bozmaz. Peygamber Efendimiz, ”Bir kimse oruçlu olduğunu unutarak yer, içerse orucunu tamamlasın, bozmasın. Çünkü onu, Allâh yedirmiş, içirmiştir” buyurmuştur (Buhari, ”Savm”, 26). Unutarak yiyen içen kişi, oruçlu olduğunu hatırlarsa hemen ağzındakileri çıkarıp ağzını yıkar ve orucuna devam eder Oruçlu olduğunu hatırladıktan sonra yeme-içmeye devam eden kişinin orucu bozulur, kaza edilmesi gerekir."
+},
+{
+"Daily_Question_Author":"​Diş fırçalamak orucu bozar mı? ",
+"Daily_Question":"Diş fırçalamakla oruç bozulmaz. Bununla birlikte, diş macununun veya suyun boğaza kaçması hâlinde oruç bozulur ve kazası gerekir. Orucun bozulma ihtimali dikkate alınarak, dişlerin imsaktan önce ve iftardan sonra fırçalanması uygun olur."
+},
+{
+"Daily_Question_Author":"İğne yaptırmak, hastaya serum ve kan vermek orucu bozar mı? ",
+"Daily_Question":"İğnenin orucu bozup bozmayacağı, kullanılış amacına göre değerlendirilebilir. Ağrıyı dindirmek, tedavi etmek, vücudun direncini artırmak, gıda vermek gibi amaçlarla enjeksiyon yapılmaktadır. Gıda ve keyif verici olmayan enjeksiyonlar, yemek ve içmek anlamına gelmediklerinden orucu bozmazlar. Ancak gıda ve/veya keyif verici enjeksiyonlar orucu bozar. Hastaya serum veya kan verilmesi de, aynı hükme tabidir."
+},
+{
+"Daily_Question_Author":"Oruçlu kimsenin dişlerini tedavi ettirmesi orucu bozar mı? ",
+"Daily_Question":"Oruçlu bir kimsenin morfinli veya morfinsiz olarak dişlerini tedavi ettirmesi veya çektirmesi orucu bozmaz. Ancak tedavi esnasında, kan veya tedavide kullanılan maddelerden herhangi bir şeyin yutulması orucu bozar."
+},
+{
+"Daily_Question_Author":"Zekât ve fitre kimlere verilir? ",
+"Daily_Question":"Zekât ve fitrenin kimlere verilebileceği Kur'an-ı Kerim'de belirlenmiştir. (Tevbe Sûresi, 60) Bunlar; fakirler, düşkünler, esaretten kurtulacaklar, borçlu düşenler, Allah yolunda cihada koyulanlar (mukaddesatı korumak için mücadele verenler, ilim tahsil edenler), yolda kalmış olanlar, zekât toplamakla görevlendirilen memurlar ve müellefe-i kulûb adı verilen, kalpleri İslam'a ısındırılmak istenen kimselerdir."
+},
+{
+"Daily_Question_Author":"Sahurda ezan bitene kadar yemek yenilebilir mi? ",
+"Daily_Question":"İmsak vakti ezan ile değil, tan yerinin ağarması ile başlar. Bu sebeple ezan okunsun okunmasın imsak vaktinin başlaması ile yeme içmeye son vermek gerekir. Ezanın imsak vaktinden önce okunması, ezanla birlikte oruca başlamayı zorunlu kılmadığı gibi, ezanın geç okunması hâlinde de imsak vaktinin girmesinden sonra yiyip içmek mübah olmaz."
+},
+{
+"Daily_Question_Author":"Bozulan nafile orucun kaza edilmesi gerekir mi? ",
+"Daily_Question":"Nafile oruç, Ramazan ayının dışında tutulan oruçtur. Nafile de olsa, başlanan bir ibadetin tamamlanması gerekir. Bu nedenle diğer nafile ibadetlerde olduğu gibi, bozulan nafile orucun da, kaza edilmesi gerekir. Kaza orucu tutmakta olan kişinin de bu orucu bozması durumunda yine kaza gerekli olup, kefaret gerekmez."
+},
+{
+"Daily_Question_Author":"​Oruç tutmayan kimse Teravih namazı kılabilir mi? ",
+"Daily_Question":"Teravih namazı Ramazan ayına ait bir sünnetidir, oruçla doğrudan ilişkisi yoktur. Bu nedenle, mazeretli ya da mazeretsiz oruç tutmayan kişiler için de Teravih namazı kılmak sünnet-i müekkededir (Tahtavi, Haşiye ala Meraki'l-Felah, 227)."
+},
+{
+"Daily_Question_Author":"Kadınlar teravih namazını camide kılabilirler mi? ",
+"Daily_Question":"Hz. Peygamber (s.a.s.), kadınların mescide gelebileceklerini, ancak evdeki ibadetlerinin daha üstün olduğunu çeşitli vesilelerle dile getirmiş ve şöyle buyurmuştur: “Kadınların mescidlere gitmesine engel olmayın. Fakat evleri onlar için daha hayırlıdır"(Müslim, “Salat", 134-137). Hz. Peygamber, mescide gitmelerine izin verdiği, hatta teşvik ettiği (Buhari, “İdeyn", 15-21; Müslim, “Salatü'l-'ideyn", 1-3, 10-12). kadınların, dikkat çekecek şekilde giyinmelerini (Müslim, “Libas", 34) ve koku sürünmelerini yasaklamış ve şöyle buyurmuştur: “Kadınlar cemaate katılmak istedikleri zaman, koku sürünmesinler" (Müslim, “Salat", 141-142). Kadınlar için farz namazları evlerinde kılmaları daha faziletli ise de, camide münferit olarak veya cemaatle kılmalarında bir sakınca yoktur. Ancak güvenlik sorunu varsa veya fitne söz konusu ise ihtiyatlı olunmalıdır. Nitekim geçmiş kaynaklarda konu tartışılırken bu merkezde ele alınmıştır (Bkz. Zeyla'i, Tebyinü'l-Hakaik, Kahire, 1313, I, 139, 168; İbn Nüceym, el-Bahru'r-raik, Daru'l-Marife, Beyrut, ts. , I, 380). Cemaatle kılınması maruf ve meşhur bir uygulama olan Teravih namazında, fitneye neden olacak herhangi bir durum olmaması halinde cemaat tercih edilebilir."
+},
+{
+"Daily_Question_Author":"Oruca niyet nasıl yapılır? ",
+"Daily_Question":"Niyet, ibadetlerin kabulünün ön şartıdır. Niyetsiz yapılan amel ibadet değeri kazanmaz. Niyetin asıl gerçekleştiği yer kalptir. Bu da yapılacak ibadete başlama sırasında o ibadetin bilincinde olmakla gerçekleşir. Niyetin dil ile söylenmesi, kalben yapılan niyetin dışa vurulmasından ibaret olup, menduptur. Buna göre her ibadette olduğu gibi oruçta da kalben niyet etmek yeterlidir. Oruç için niyetin vakti, akşam namazı vaktinin girmesiyle birlikte başlar. Oruç için sahura kalkılması fiili bir niyettir. Kişi sahura kalkmamış olsa bile sabah bu bilinç içinde ise niyetli sayılır. Ramazan orucu ile günü belirlenmiş adak orucu ve nafile oruçlarda niyet etme zamanı, öğle namazına yaklaşık bir saat kalana kadar devam eder. Bunların dışındaki, kefaret, kaza, günü belirlenmemiş adak oruçlarında ise ”imsak”tan önce niyet edilmesi gerekir. "
+},
+{
+"Daily_Question_Author":"Hangi hallerde Ramazan ayında oruç tutulmayabilir? ",
+"Daily_Question":"İslam dini, kişileri, güçleri nispetinde sorumlu tutmuş, güçlerini aşan veya sıkıntıya yol açan durumlarda kolaylaştırıcı hükümler getirmiştir. Aşağıdaki mazeretlere sahip kimselerin Ramazanda oruç tutmakla yükümlü olmayıp daha sonra kaza etmelerine veya yerine fidye vermelerine ruhsat tanınmıştır: a) Yolculuk: Yolculuk, Ramazan ayında oruç tutmamak için ruhsat olarak kabul edilmiştir. Yolculuk esnasında tutulmayan oruçlar, daha sonra kaza edilir. Kur'an'da "Ey inananlar! Oruç sizden öncekilere farz kılındığı gibi, Allâh'a karşı gelmekten sakınasınız diye, size de sayılı günlerde farz kılındı. İçinizden hasta olan veya yolculukta bulunan, tutamadığı günler sayısınca diğer günlerde tutar. Oruca gücü yetmeyenler, bir düşkünü doyuracak kadar fidye verir. Kim gönülden iyilik yaparsa, o iyilik kendisinedir. Eğer bilirseniz, oruç tutmanız sizin için daha iyidir." buyurulmaktadır. (Bakara, 2/183-184). Geceden oruç tutmaya niyetlenip de gündüzleyin yolculuğa çıkmak zorunda olan kimse yolculukta zorluk çekerse, daha sonra kaza etmek üzere orucunu bozabilir. Ancak orucunu tamamlaması daha uygundur. Hz. Peygamber, Mekke'nin fethi için sefere çıktığında oruçlu iken, Kedîd denilen yere varınca orucunu bozmuştur. (Buharî, "Savm", 34; Müslim, "Sıyam", 15) Bu uygulama, sefere çıkınca orucun bozulabileceğini göstermektedir. b) Hastalık: Oruç tuttuğu zaman, hastalığının artmasından veya uzamasından endişe edilen kimse ile, hastalığı sebebiyle oruç tutmakta zorlanan kişilerin Ramazan ayında oruç tutmayıp, iyileştikten sonra bunları kaza etmelerine izin verilmiştir. Yukarıda zikredilen âyet buna işaret etmektedir. Uzman bir hekim tarafından oruç tutması hâlinde hasta olacağı bildirilen kimse de hasta hükmündedir. c) Hamilelik ve çocuk emzirme: Oruç tutmaları kendilerine veya çocuklarına zarar vermesi hâlinde, hamile kadınlar oruçlarını tutmayabilirler. Emzikli kadınlar da, sütlerinin kesilmesi ve çocuklarının zarar görebileceği durumlarda oruç tutmayabilirler. Hz. Peygamber buna müsaade etmiştir (Nesâî, "Sıyam", 50-51). d) Zor ve meşakkatli işlerde çalışmak: Oruç tuttuğu takdirde sağlığına bir zarar gelmesinden korkan kimse, orucunu tutmayabilir. Bu durumda olanlar, izinli olduğu günler veya uygun zamanlarda tutamadıkları oruçları kaza ederler. Bir zorunluluk olarak, ağır işlerde çalışmak zorunda olan kişiler oruçlu olarak çalıştıkları takdirde sağlıkları risk altında kalacaksa, Ramazan ayında tutamadıkları oruçlarını uygun bir zamanda kaza ederler. e) Yaşlılık: Oruç tutamayacak kadar yaşlı olan kimseler, oruç yerine fidye verebilirler. Bakara sûresinin 184. âyetinde, bu şekilde olup da oruca güç yetiremeyenlerin, oruç tutmayıp fidye vermeleri gerektiği hükme bağlanmıştır. İyileşme umudu olmayan hastalar da aynı hükme tabidir."
+},
+{
+"Daily_Question_Author":"Oruçlu kimse abdest alırken hataen boğazına su kaçırsa orucu bozulur mu? ",
+"Daily_Question":"Orucun bozulması konusunda hata; abdest sırasında ağzını çalkalarken isteği dışında boğazına su kaçması örneğinde olduğu gibi, orucu bozan fiilin orucu bozma kastına dayalı olmayarak meydana gelmesidir. Orucu bozan fiilin hataen yapılması orucu bozar ve yalnızca kazayı gerektirir. Hataen boğaza su kaçması, oruçlu bulunulduğu hatırda değilken meydana gelirse, unutarak yapılmış hükmünü alır ve oruç bozulmaz. Bir sahabiResûlullah'a (s.a.s.); “Ey Allah'ın Resulü! Oruçlu iken unutarak yiyip içtim. Orucum bozuldu mu?” diye sormuş. Resulullah (s.a.s.) da, “(Hayır bozulmadı) sana Allah yedirip içirdi.”(EbûDâvûd, Savm 39) cevabını vermiştir. Şâfiî mezhebine göre orucu bozan bir işi; gerek hataen, gerek unutarak yapmakla oruç bozulmaz."
+},
+{
+"Daily_Question_Author":"Her gün hap kullanmak zorunda olan hastaların oruç tutmaları gerekir mi? ",
+"Daily_Question":"Hastalık, Ramazan'da oruç tutmamayı mubah kılan özürlerdendir. Bir kimsenin oruç tuttuğu takdirde hastalanacağı, hasta ise hastalığının artacağı tıbben veya tecrübe ile sabit olursa oruç tutmayabilir. İyi olunca da yalnız yediği günler sayısınca kaza etmesi gerekir. Âyet-i Kerime' de ”Sizden her kim hasta yahut yolcu olursa tutamadığı günler sayısınca diğer günlerde oruç tutar” buyrulmuştur (Bakara, 2/184). Ömrü boyunca bu durumda hasta olan kişiler ise, her gün için bir fidye verirler. Yoksul ve muhtaç kişilerin fidye vermeleri de gerekmez. Zira dinimizde hiç kimse, gücünün üstünde bir sorumlulukla yükümlü tutulmamıştır. "
+},
+{
+"Daily_Question_Author":"Sahurda ezan bitene kadar yemek yenilebilir mi? ",
+"Daily_Question":"İmsak vakti ezan ile değil, tan yerinin ağarması ile başlar. Bu sebeple ezan okunsun okunmasın imsak vaktinin başlaması ile yeme içmeye son vermek gerekir. Ezanın imsak vaktinden önce okunması, ezanla birlikte oruca başlamayı zorunlu kılmadığı gibi, ezanın geç okunması hâlinde de imsak vaktinin girmesinden sonra yiyip içmek mübah olmaz."
+},
+{
+"Daily_Question_Author":"Hangi şeyler orucu bozup sadece kazayı gerektirir? ",
+"Daily_Question":"Yolculuk, hastalık, ileri derecede yaşlılık gibi meşru bir mazerete dayalı olarak bozulan orucun, sadece kaza edilmesi gerekir. Ayrıca, kasıt olmaksızın yemek-içmek; beslenme amacı ve anlamı taşımayan, yenilip içilmesi mutat olmayan veya insan tabiatının meyletmediği şeylerin yenilip içilmesi orucu bozar ve sadece kazasını gerektirir. Ramazanda bir mazeret olmaksızın tutulmayan oruçlar, gününe gün kaza edilir. Ancak mazeretsiz olarak Ramazan orucunu tutmamak büyük günah olup, ayrıca bundan dolayı tövbe ve istiğfarda bulunmak gerekir. Ramazan ayı günahların affı için bir fırsattır. Diğer günlerde tutulan oruç, kıymet itibariyle Ramazanda tutulan orucun yerini tutamaz."
+},
+{
+"Daily_Question_Author":"Oruç kefareti ne demektir? Hangi durumlarda gerekir? ",
+"Daily_Question":"Oruç kefareti, Ramazan orucunun, mazeretsiz olarak bozulması sebebi ile bir ceza olarak, Ramazan dışında peş peşe iki kamerî ay veya altmış gün oruç tutmak demektir. Meşru bir mazeret bulunmaksızın yemek, içmek, cinsel ilişkide bulunmak ya da bu anlama gelecek fiillerden birini yapmakla oruç bozulur ve bozulan orucun kaza edilmesi gerekir. Eğer bu şekilde bozulan oruç Ramazan orucu ise, ayrıca kefaret orucu tutmak gerekir. Oruç kefaretini oruç tutma yolu ile ödemeye sağlığı elvermeyen kimse, 60 fakiri bir gün ya da bir fakiri 60 gün doyurur. Âdet hâlinde bulunan kadınlar, bu günlerinde kefaret oruçlarına ara verirler. Bu durumlarından çıkar çıkmaz ara vermeden kefaret orucuna devam ederek 60 günü tamamlarlar. "
+},
+{
+"Daily_Question_Author":"Mesleği gereği sürekli olarak yolculuk yapan kişi oruç ibadetini nasıl yerine getirebilir? ",
+"Daily_Question":"Mazeret devam ettiği sürece ruhsat da devam eder. Dolayısı ile yolculuk ve hastalık gibi mazeretleri sebebi ile oruç tutamayan kişiler, bu mazeretleri devam ettiği sürece oruç tutmayabilirler. Sürekli mazereti bulunan kişiler, mazeretleri ortadan kalkınca, zamanında tutamadıkları Ramazan oruçlarını kaza ederler. Kur'an-ı Kerim'de; ”… Kim de hasta veya yolcu olursa, (oruç) tutmadığı günler sayısınca başka günlerde tutsun”. buyurulmaktadır (Bakara, 2/185). Devamlı olarak uzun yola giden kaptan ve sürücüler de yolcu hükmündedir. Şu kadar var ki, yolculuğu esnasında bir sıkıntı çekmeyenlerin oruç tutması daha faziletlidir."
+},
+{
+"Daily_Question_Author":"Bozulan nafile orucun kaza edilmesi gerekir mi? ",
+"Daily_Question":"Nafile oruç, Ramazan ayının dışında tutulan oruçtur. Nafile de olsa, başlanan bir ibadetin tamamlanması gerekir. Bu nedenle diğer nafile ibadetlerde olduğu gibi, bozulan nafile orucun da, kaza edilmesi gerekir. Kaza orucu tutmakta olan kişinin de bu orucu bozması durumunda yine kaza gerekli olup, kefaret gerekmez. "
+},
+{
+"Daily_Question_Author":"Zekât havale yoluyla ödenebilir mi? ",
+"Daily_Question":"Zekât, bizzat elden verilebileceği gibi, vekâlet veya havale yoluyla da verilebilir. Burada önemli olan, zekâtın alacak kişiye ulaşmasıdır. "
+},
+{
+"Daily_Question_Author":"Babası ile birlikte oturan kimse zekât ile mükellef midir? ",
+"Daily_Question":"Babası ile birlikte oturan kimsenin kendi şahsına ait ayrı malı bulunur ve zekât için gerekli şartları taşırsa bu kişi zekât vermekle yükümlü olur. Ancak babası ile mallarını ayırmamışlar da ortak kazanıp ortak harcıyorlarsa, bu takdirde ellerindeki birikim üzerinde tasarruf yetkisine sahip olan kişi, zekâtla yükümlü olur."
+},
+{
+"Daily_Question_Author":"Bir zengin vadeli alacağına dair bir senedi fakire zekât olarak verebilir mi? ",
+"Daily_Question":"Zekât gıda ve giyim eşyaları gibi aynî olarak verilebileceği gibi, para, döviz, altın gibi nakdî olarak da verilebilir. Senet ise; bir hakkın, bir malın, ödünç bir paranın kime ait olduğunu belirten, iki veya daha fazla kişi arasında tanzim edilmiş bir belgedir. Dolayısıyla üzerinde yazılı miktardaki parayı temsil etmektedir. Bu nedenle, zekât mükellefi olan bir zengin, vadesinde ödeneceğini kesin olarak bildiği senedi, zekâtına mahsuben fakire ciro edebilir. Bu durumda zekât, senedin tahsil edildiği gün ödenmiş olur."
+},
+{
+"Daily_Question_Author":"Vergi zekât yerine geçer mi? ",
+"Daily_Question":"Vergi bir vatandaşlık görevidir; zekât ise dinî bir yükümlülüktür. Ayrıca zekât ile vergi, yaptırım kaynağı, temel gaye, oran, miktar ve harcanacağı yerler bakımından birbirinden farklıdır. Bu itibarla, devlete ödenen vergiler zekât yerine geçmez. Zekâtın ayrıca verilmesi gerekir. "
+},
+{
+"Daily_Question_Author":"Zekât verilen kişinin zengin olduğu ortaya çıkarsa ne yapmak gerekir? ",
+"Daily_Question":"Zekât mükellefi, kime zekât verdiğini araştırmalıdır. Araştırma sonucu zekât verilebilecek kişilerden olduğu kanaatine vardığı birisine zekât verir. Daha sonra bu kimsenin zekât verilecek kişilerden olmadığı ortaya çıkarsa, zekâtı geçerli olur. Araştırma yapmaksızın zekât verir ve daha sonra bu kimsenin zekât verilebilecek kişilerden olduğu ortaya çıkarsa, zekâtı geçerli olur; ancak böyle olmadığı anlaşılırsa, zekâtı geçerli olmaz, yeniden vermesi gerekir. "
+},
+{
+"Daily_Question_Author":"Zekât vermenin belirli bir zamanı var mıdır? ",
+"Daily_Question":"Zekât vermenin belli bir zamanı olmayıp, farz olduğu andan itibaren verilmesi gerekir. Bunun için belli bir ayı veya Ramazanı beklemeye gerek yoktur. Zekât vermekle yükümlü olanların, yükümlü oldukları andan itibaren en kısa zamanda zekâtlarını vermeleri uygun olur."
+},
+{
+"Daily_Question_Author":"Teravih namazının vakti ne zamandır? Yatsı namazı kılmadan önce Teravih kılınsa geçerli olur mu? ",
+"Daily_Question":"Teravih ve vitir namazının vakti, yatsı namazının vaktidir. Ancak hem Teravih hem de vitir namazı, yatsı namazının farzından sonra kılınır. Bu itibarla yatsı namazının farzını kılmadan vitir ve Teravih namazı kılınır ise vitir ve Teravihin yeniden kılınması gerekir. Eğer vakit çıkmış ise; Teravihin kazası gerekmez, vitrin kazası gerekir (İbn Hümam, Fethu'l-Kadir, I, 469; Kasani, Bedaiu's-sanai', I, 290)."
+},
+{
+"Daily_Question_Author":"Kusmakla oruç bozulur mu? ",
+"Daily_Question":"Kendiliğinden kusmakla oruç bozulmaz. Ancak kişinin kendi isteği ve müdahalesiyle meydana gelen kusma, ”ağız dolusu” olması hâlinde, orucu bozar."
+},
+{
+"Daily_Question_Author":"Burun damlası kullanmak orucu bozar mı? ",
+"Daily_Question":"Tedavî amacıyla burna damlatılan ilacın bir damlası, yaklaşık 0,06 cm3'tür. Bunun bir kısmı da burun çeperleri tarafından emilmekte olup, çok az bir kısmı ise mideye ulaşmaktadır. Bu da, dinî açıdan abdestte ağza su vermede olduğu gibi af kapsamında değerlendirildiğinden orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Kalp hastalarının dilaltı hapı kullanması orucu bozar mı? ",
+"Daily_Question":"Bazı kalp rahatsızlıklarında dilaltına konulan ilaç, doğrudan ağız dokusu tarafından emilip kana karışarak kalp krizini önlemektedir. Söz konusu ilaç, ağız içinde emilip yok olduğundan mideye bir şey ulaşmamaktadır. Bu itibarla, dilaltı hapı kullanmak orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Göz damlası kullanmak orucu bozar mı? ",
+"Daily_Question":"Uzman göz doktorlarından alınan bilgilere göre, göze damlatılan ilaç miktar olarak çok az (1 mililitrenin 1/20'si olan 50 mikrolitre) olup, bunun bir kısmı gözün kırpılmasıyla dışarıya atılmakta, bir kısmı gözde, göz ile burun boşluğunu birleştiren kanallarda ve mukozasında mesamat yolu ile emilerek vücuda alınmaktadır. Damlanın yok denilebilecek kadar çok az bir kısmının, sindirim kanalına ulaşma ihtimali bulunmaktadır. Bu bilgiler, yukarıdaki bilgilerle birlikte değerlendirildiğinde, göz damlası orucu bozmaz "
+},
+{
+"Daily_Question_Author":"Susuz olarak hap yutmak orucu bozar mı? ",
+"Daily_Question":"Oruçlu bir kimse meşru mazeret olmaksızın gıda veya ilaç cinsinden bir şeyi ister su ile, ister susuz olarak yer veya içerse orucu bozulur ve kefaret gerekir. Ancak oruç bozmayı mübah kılacak ölçüde bir rahatsızlık sebebiyle ilaç alınmış ise oruç bozulur ve kendisine yalnız kaza gerekir, kefaret gerekmez. Sahurda ezan bitene kadar yemek yenilebilir mi? Sahurda ezan bitene kadar yemek yenilebilir mi?"
+},
+{
+"Daily_Question_Author":"Endoskopi, kolonoskopi yaptırmak, makat veya ferçten ultrason çektirmek orucu bozar mı? ",
+"Daily_Question":"Mideyi görüntülemek veya mideden parça almak için yaptırılan endoskopide, ağız yoluyla mideye tıbbî bir cihaz sarkıtılmakta ve işlem bittikten sonra çıkarılmaktadır. Kolonlardaki hastalığı teşhis etmek amacıyla, bağırsak iç görüntülemek veya parça almak için yapılan kolonoskopide, makattan bağırsaklara cihaz gönderilmekte ve işlem bittikten sonra çıkarılmaktadır. Kolonoskopide, hemen daima, endoskopide de genellikle, incelenecek alanın temizliğini sağlamak amacıyla cihaz içinden su verilmektedir. Endoskopi veya kolonoskopi yaptırmak; makat veya ferçten ultrason çektirmek; yeme, içme anlamına gelmemekle birlikte, çoğunlukla cihaz içinden su verildiği için oruç bozulur. Ancak söz konusu işlemlerde cihazların kullanımı sırasında sindirim sistemine su, yağ ve benzeri gıda özelliği taşıyan bir madde girmemesi durumunda endoskopi, kolonoskopi yaptırmak, makat veya ferçten ultrason çektirmek orucu bozmaz."
+},
+{
+"Daily_Question_Author":"İdrar kanalının görüntülenmesi, kanala ilaç akıtılması orucu bozar mı? ",
+"Daily_Question":"İdrar kanallarına giren cihazlar veya akıtılan ilaçlar orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Anestezi yaptırmak orucu bozar mı? ",
+"Daily_Question":"Anestezi, nefes yolu veya iğne ile vücuda ilaç verilerek oluşturulmaktadır. Nefes yolu veya iğne ile yapılan anestezi, mideye ulaşmadığı gibi, yeme-içme anlamı da taşımamaktadır. Ancak bölgesel ve genel anestezide, acil durumlarda ilaç ve sıvı vermek amacıyla damar yolu açılarak, bu açıklık, işlem süresince serum vermek suretiyle sağlanmaktadır. Bu itibarla, lokal anestezi, orucun sıhhatine engel değildir. Bölgesel ve genel anestezide serum verildiği için oruç bozulur."
+},
+{
+"Daily_Question_Author":"Kulak damlası kullanmak ve kulak yıkattırmak orucu bozar mı? ",
+"Daily_Question":"Kulak ile boğaz arasında da bir kanal bulunmaktadır. Ancak kulak zarı bu kanalı tıkadığından, su veya ilaç boğaza ulaşmaz. Bu nedenle kulağa damlatılan ilaç veya kulağın yıkattırılması orucu bozmaz. Kulak zarında delik bulunsa bile, kulağa damlatılan ilaç, kulak içerisinde emileceği için, ilaç ya hiç mideye ulaşmayacak ya da çok azı ulaşacaktır. Daha önce de belirtildiği gibi, bu miktar oruçta affedilmiştir. Ancak kulak zarının delik olması durumunda, kulak yıkattırılırken suyun mideye ulaşması mümkündür. Bu itibarla, orucu bozacak kadar suyun mideye ulaşması hâlinde oruç bozulur."
+},
+{
+"Daily_Question_Author":"Diyaliz uygulaması orucu bozar mı? ",
+"Daily_Question":"Böbrek yetmezliği hastalarına uygulanan diyaliz, periton diyalizi, hemodiyaliz olmak üzere iki çeşittir. Periton diyalizi, karın boşluğuna verilen özel bir solüsyon aracılığı ile, hastanın kendi karın zarı kullanılarak, kanın zararlı maddelerden arındırılması ve sıvı dengesinin sağlanması işlemidir. Hemodiyaliz ise, kanın vücut dışında bir makina yardımı ile temizlenip vücuda geri verilmesi işlemidir. Kan, bir iğne aracılığı ile hastanın kolundan alınır. Hemodiyaliz makinası, diyalizör denen bir filtreden kanı sürekli geçirerek zararlı maddeleri ve fazla suyu filtre eder. Filtre edilen temiz kan, ikinci bir iğne ile hastanın damarına geri verilir. Bu işlem yapılırken bazen gıda içerikli sıvı verilmesi gerekmektedir. Buna göre hastaya herhangi bir sıvı maddesi verilmeden gerçekleştirilen hemodiyalizde oruç bozulmaz. Diğer diyaliz çeşitlerinde ise, vücuda gıda içerikli sıvı verildiği için oruç bozulur."
+},
+{
+"Daily_Question_Author":"Anjiyo yaptırmak orucu bozar mı? ",
+"Daily_Question":"Halk arasında anjiyo (anjiyografi) olarak bilinen operasyon, teşhise veya tedaviye yönelik olarak uygulanmaktadır. Anjiyografi, vücut damarlarının görüntülenmesi demektir. Damar içine, damarların görünür hâle gelmesini sağlayan ve kontrast madde olarak tanımlanan ilaç verilerek, anjiyogram adı verilen filmler elde edilir. Anjiyografi sayesinde organları besleyen damarlar görüntülenerek damar hastalıkları veya bu damarlardan beslenen organlara ait tanı koydurucu bilgiler edinilir. Tedaviye yönelik olarak uygulanan anjiyonun klasik yöntemi, anjiyoplastidir. Bu ise, dar veya tam tıkalı damarların balon ya da stent denilen özel araçlarla tekrar açılması için yapılır. Bu bilgiler ışığında gerek anjiyografi, gerekse anjiyoplasti operasyonlarında yemek ve içmek anlamı bulunmadığından, oruç bozulmaz."
+},
+{
+"Daily_Question_Author":"Biyopsi yaptırmak orucu bozar mı? ",
+"Daily_Question":"Tahlil amacıyla vücudun herhangi bir organından parça alınması (biyopsi), orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Kan aldırmak orucu bozar mı? ",
+"Daily_Question":"Kan aldırmak orucu bozmaz. Nitekim Hz. Peygamber, ihramlı iken ve oruçlu bulunduğu sırada kan aldırmıştır (Buharî, ”Tıb”, 11, ”Sayd”, 11, ”Savm”, 22). Ayrıca Hz. Peygamber: ”Üç şey vardır orucu bozmaz: Kan aldırmak, kusmak, ihtilam olmak” (Tirmizi, ”Savm”, 24) buyurmuştur. "
+},
+{
+"Daily_Question_Author":"Oruçlu kimse akupunktur yaptırabilir mi? ",
+"Daily_Question":"Akupunktur; vücutta belirli noktalara iğne batırmak suretiyle çeşitli hastalıkları tedavi etme metodudur. Akupunktur uygulanması hâlinde, vücudun beslenmesi, gıda alması söz konusu olmadığından, akupunktur yaptırmak orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Merhem ve ilaçlı bant kullanmak orucu bozar mı? ",
+"Daily_Question":"Deri üzerindeki gözenekler ve deri altındaki kılcal damarlar yoluyla vücuda sürülen yağ, merhem ve benzeri şeyler emilerek kana karışmaktadır. Ancak cildin bu emişi, çok az ve yavaş olmaktadır. Diğer taraftan bu yeme içme anlamına da gelmemektedir. Bu itibarla, deri üzerine sürülen merhem, yapıştırılan ilaçlı bantlar orucu bozmaz."
+},
+{
+"Daily_Question_Author":"Şeker hastalarının uyguladıkları insülin iğnesi orucu bozar mı? ",
+"Daily_Question":"İğnenin orucu bozup bozmayacağı, kullanılış amacına göre değerlendirilebilir. Ağrı dindirmek, tedavi etmek, vücudun direncini artırmak, gıda vermek gibi amaçlarla enjeksiyon yapılmaktadır. Gıda ve keyif verici olmayan enjeksiyonlar, yemek ve içmek anlamına gelmediklerinden orucu bozmazlar. Ancak gıda ve/veya keyif verici enjeksiyonlar orucu bozar (Din İşleri Yüksek Kurulu 22.09.2005 Tarihli Karar). Şeker hastalarının kullandıkları insülin iğnesi bu nitelikte olmadığı için orucu bozmaz. Diğer yandan ehil doktorların, oruç tutmasının sağlık açısından zararlı olacağı teşhisini koyduğu bir hasta, Ramazanda oruç tutmayabilir. Böyle bir kişi, Ramazan ayının her günü için birer fidye verir. İnsüline bağımlı olarak yaşayan hastaların da oruç tutmaları sağlıklarına zarar veriyorsa oruç tutmayabilirler. Tutamadıkları oruçlarının sayısınca her gün için bir fidye verirler."
+},
+{
+"Daily_Question_Author":"Kadınlar hayız ve nifas hâllerinde oruç tutabilirler mi? ",
+"Daily_Question":"Kadınlar hayız ve nifas hâllerinde oruç tutmazlar (Buharî, ”Hayz”, 1; Müslim, ”Hayz”, 14, 15). Daha sonra tutamadıkları oruçlarını kaza ederler. Bu konuda müçtehitler görüş birliği içindedirler."
+},
+{
+"Daily_Question_Author":"İmsak vaktinden sonra âdet hali sona eren bir kadın oruç tutabilir mi? ",
+"Daily_Question":"İmsak vaktinden sonra âdet hali sona eren bir kadın, o gün hiçbir şey yiyip içmemiş olsa bile, oruç tutmuş sayılmaz."
+},
+{
+"Daily_Question_Author":"Oruçlu iken hayız / âdet gören kadın ne yapar? ",
+"Daily_Question":"Oruçlu iken hayız olan/âdet gören kadının orucu bozulmuş olduğundan yiyip içer. Şu kadar var ki, böyle bir kadın, yiyip içebileceği gibi edeben oruçlu gibi davranmaya devam etmesi uygun olur."
+},
+{
+"Daily_Question_Author":"Kadınların Ramazanda âdet geciktirici ilaç kullanmaları caiz midir? Ayrıca kullandığı ilaç sebebiyle âdeti geciken bir bayanın tuttuğu oruçlar geçerli midir? ",
+"Daily_Question":"Ay hâli oruç tutmaya mânidir. Bu hâlde iken tutulan oruç geçerli olmaz. İlaç etkisi ile de olsa, akıntı olmadıkça ay hâli vuku bulmuş olmayacağından tutulan oruç geçerlidir. Ancak hayız kanı ile vücutta biriken zararlı maddeler dışarı atıldığından, vücudun sıhhati bakımından ay hâlini önlemek için ilaç kullanılması tavsiye edilmez."
+},
+{
+"Daily_Question_Author":"Düşük yapan bir bayan Ramazan orucunu nasıl tutar? ",
+"Daily_Question":"El, ayak veya parmak gibi organları belirmiş olan bir bebek düşüren kadından gelen kan, nifas (lohusalık) kanıdır. Dolayısıyla bu kadın aynen sağ olarak çocuk doğurmuş gibi lohusadır, oruçlu ise orucu bozulmuş olur. Lohusalık kanı devam ettiği sürece de oruç tutamaz. Şâfiî ve Mâlikîlere göre ise her durumdaki düşük lohusalık sebebidir. El ve ayak gibi organlar belirmeden meydana gelmiş düşükten sonra görülen kan istihâza (özür) kanıdır. Bu kan, diğer organlardan gelen kan gibidir. Böyle bir kanın gelmesi ile yalnız abdest bozulur. Devamlı gelirse, özürlü hükmüne geçer ve özür sahiplerine ait olan hükümler bu gibilerde de uygulanır. Bu durumdaki bir kadından namaz sorumluluğu düşmez, orucunu kazaya bırakamaz ve kocasıyla cinsel ilişkide bulunabilir."
+},
+{
+"Daily_Question_Author":"Düzensiz âdet kanaması olan bir bayan oruçlarını nasıl tutmalıdır? ",
+"Daily_Question":"Kadınlar âdet dönemlerinde namaz kılmazlar, oruç tutmazlar. Temizlendikten sonra kılamadıkları namazları kaza etmezler fakat oruçlarını kaza ederler (Müslim, Hayız, 76-69). Her kadının âdet gördüğü gün sayısı eşit değildir. Bu süre Hanefîlere göre en az üç, en çok on gün olabilir. Âdet günlerinin süresi, daha önce yaşanmış tecrübelere göre belirlenir. Örneğin daha önce âdet günleri altı gün devam etmişse, bu altı günlük süre içinde gelen lekeler âdet gününden sayılır. Düzensiz kanamalarda, önceki âdet günlerine rastlayan kanama âdet sayılıp, o günlerdeki oruçlar terk edilir. Önceki âdet günleri değişmişse, üç ile on gün arasındaki kanama âdet sayılıp, o günlerde oruç terk edilir. Daha sonra kaza edilir. On gün dolduktan sonra gusül edilip, namaz ve oruca başlanır. İki âdet arasındaki temizlik günü sayısı 15 günden az olmaz."
+},
+{
+"Daily_Question_Author":"Bayram günü oruç tutulabilir mi? ",
+"Daily_Question":"Ramazan bayramının birinci gününde, Kurban bayramının dört gününde oruç tutmak tahrimen mekruhtur. Çünkü bugünler ziyafet, yeme, içme ve sevinç günleridir."
+},
+{
+"Daily_Question_Author":"Oruç fidyesi ne demektir? ",
+"Daily_Question":"Fidye, bazı ibadetlerin eda edilmemesi ya da edası sırasında birtakım kusurların işlenmesi hâlinde ödenen dînî-malî yükümlülüktür. İbadetlerle ilgili fidye, oruç ve hacda söz konusudur. İhtiyarlık ve şifa ümidi olmayan bir hastalık sebebiyle oruç tutamayan ve daha sonra da kaza etmesi mümkün olmayan kimse, oruç tutamadığı her güne karşılık bir fidye öder. Kur'an-ı Kerim'de, ”Oruç tutmaya güç yetiremeyenler, bir fakir doyumu kadar fidye öder.” (Bakara, 2/184) buyurulmaktadır. Bir fidye miktarı, bir sadaka-i fıtır miktarıdır. Sadaka-i fıtır ise bir kişiyi bir gün için doyuracak yiyecek veya bunun para olarak karşılığıdır. Fidye vermek durumunda olan fakat buna maddi imkânı el vermeyen kimse Allah'tan af diler. Günler uzun olduğu için oruç tutamayan hasta ya da yaşlılar, kısa günlerde oruç tutabilirlerse tutamadıkları orucu kısa günlerde kaza etmeleri gerekir. Bu durumda olan kimselerin vermiş oldukları fidyeler sadaka sayılır. Oruç fidyeleri, Ramazan ayının sonunda toptan verilebileceği gibi, Ramazan ayı içinde günlük olarak veya Ramazan ayı başında da verilebilir."
+},
+{
+"Daily_Question_Author":"Cuma günü oruç tutulabilir mi? ",
+"Daily_Question":"Oruç tutulması mekruh olan Bayram günleri dışındaki günlerde oruç tutmak caizdir. Ancak sadece Cuma günleri nafile oruç tutmak tenzihen mekruh görülmüştür. Peygamber Efendimiz (s.a.s.); ”Kimse Cuma günü oruç tutmasın. Ancak bir gün önceden veya sonradan oruç tutuyorsa bu takdirde Cuma günü de oruç tutabilir” buyurmuştur (Ebû Davud, ”Savm”, 50). Buna göre, Cuma günü, kazaya kalan veya adak gibi vacip bir oruç tutmakta sakınca bulunmamaktadır. Cuma günü nafile oruç tutmak isteyenlerin, bir gün önce veya sonrasında da oruç tutması uygun olur."
+},
+{
+"Daily_Question_Author":"Orucun zamanı hangi vakitler arasındadır? ",
+"Daily_Question":"Oruç tutma zamanı tan yerinin ağarması (fecr-i sadık) ile başlar, güneşin batmasına kadar devam eder. Oruca başlamaya imsak, orucu açmaya ise iftar denir."
+},
+{
+"Daily_Question_Author":"Şevval orucunun hükmü nedir? ",
+"Daily_Question":"Ramazan ayından sonra Şevval ayında altı gün oruç tutmak müstehaptır. Peygamber Efendimiz (s.a.s.), ”Kim Ramazan orucunu tutar ve ona Şevval ayından altı gün ilave ederse, sanki yılın bütününde oruç tutmuş gibi olur” (Müslim, ”Sıyam”, 24; Tirmizî, ”Savm”, 53) buyurarak, Şevval ayında altı gün oruç tutmayı teşvik etmiştir. Bu oruç art arda tutulabileceği gibi, ara verilerek de tutulabilir."
+},
+{
+"Daily_Question_Author":"Yatmadan önce oruç tutmaya niyet eden kişi gece uyandığında henüz imsak vakti girmeden yiyip içebilir mi? ",
+"Daily_Question":""İmsak”, sabah namazının girişini ve orucun başlayış vaktini ifade eder. Oruç tutacak kişinin bu andan itibaren yeme içmeye son vermesi gerekir. Ancak, oruca niyet zamanı ile oruca başlama zamanının çakışması şart olmadığı için daha önceden de niyet edilebilir. Bu itibarla, yatmadan önce yemek yiyip oruç tutmaya niyet eden kişi, geceleyin uyandığında imsak vaktine kadar yiyip içebilir. "
+},
+{
+"Daily_Question_Author":"Aşure orucunun hükmü nedir? ",
+"Daily_Question":"Muharrem ayının onuncu gününe, Aşûre günü denmektedir. Resûlûllah (s.a.s.), ”Aşûre günü orucunun önceki yılın günahlarına kefaret olacağını umarım” buyurarak (Tirmizî, ”Savm”, 47), bu günde oruç tutmayı tavsiye etmiştir. Hz. Peygamber döneminde Yahudiler, sadece Muharrem ayının 10. gününde oruç tuttuklarından, onların davranışlarına benzememesi için öncesine veya sonuna bir gün ilave edilerek tutulması uygundur. "
+},
+{
+"Daily_Question_Author":"Üç ayların aralıksız olarak oruçla geçirilmesinin bir sakıncası var mıdır? ",
+"Daily_Question":"Üç ayların aralıksız olarak oruçla geçirilmesinin bir sakıncası var mıdır? Hz. Peygamber (s.a.s.)'in Recep ve Şaban aylarında, diğer aylara oranla daha çok nafile oruç tuttuğu hadis kaynaklarında yer almakta (Buhârî, ”Savm”, 52, 53), fakat bu iki ayı aralıksız oruçlu geçirdiği bilinmemektedir. Dolayısı ile Ramazana ilaveten Recep ve Şaban aylarını da bütünü ile oruçlu geçirmek sakıncalı olmamakla beraber sünnete uyarak bu aylarda birer gün olsun oruca ara vermek uygun olur."
+},
+{
+"Daily_Question_Author":"Kaza oruçlarının aralıksız olarak tutulması şart mıdır? ",
+"Daily_Question":"Ramazan ayında tutulmayan oruçların ve başlanıp da bozulan oruçların kaza edilmesi gerekir. Kur'an-ı Kerim'de, ”İçinizden hasta olan veya yolculukta bulunan, tutamadığı günlerin sayısınca diğer günlerde tutar.” buyrulmaktadır (Bakara, 2/184). Kaza oruçlarının aralıksız tutulması hakkında herhangi bir hüküm bulunmamaktadır. Bu itibarla, kazaya kalan oruçlar, oruç tutulması mekruh olan günler dışında, peşi peşine veya ayrı günlerde tutulabilir. Ancak bu oruçların, bir an önce tutulması uygun olur."
+},
+{
+"Daily_Question_Author":"Ramazanı karşılamak ve uğurlamak için oruç tutmanın hükmü nedir? ",
+"Daily_Question":"Ramazanı karşılamak ve uğurlamak için oruç tutmanın hükmü nedir? Ramazanı karşılamak veya uğurlamak amacıyla oruç tutmanın dinî bir dayanağı yoktur. Ancak Hz. Peygamber Şaban ayında çokça ve Şevval ayında 6 gün oruç tutmuştur. Ramazan ayı girmediği hâlde, Ramazanın gelmiş olabileceği düşüncesiyle ihtiyaten Ramazandan bir veya iki gün önce oruç tutmak ise mekruhtur. Ancak, belirli günlerde oruç tutmayı âdet hâline getiren kişilerin, oruç tuttuğu günlerin bu günlere denk gelmesi hâlinde oruç tutmasında sakınca yoktur. Nitekim Hz. Peygamber (s.a.s.), ”Ramazanı bir veya iki gün önce oruçla karşılamayın. Eğer bir kimse âdeti olduğu için bu günleri oruçla geçiriyorsa tutsun” buyurmuştur (Buharî, ”Savm”: 14; Müslim, ”Sıyam”: 21)."
+},
+{
+"Daily_Question_Author":"Oruçlu iken boy abdesti almak / banyo yapmak orucu bozar mı? ",
+"Daily_Question":"Oruçlu iken boy abdesti almak / banyo yapmak orucu bozar mı? Ağız veya burundan su yutulmadıkça yıkanmakla veya gusül abdesti almakla oruç bozulmaz. Nitekim Hz. Aişe ile Ümmü Seleme validelerimiz, Peygamberimiz (s.a.s.)'in Ramazanda imsaktan sonra boy abdesti almış olduğunu haber vermişlerdir (Buhârî, ”Savm”, 25)."
+},
+{
+"Daily_Question_Author":"İhtilam olmak, cünüp olarak sabahlamak oruca zarar verir mi? ",
+"Daily_Question":"Oruçlu iken rüyada ihtilam olmak orucu bozmadığı gibi, gusletmeyi geciktirerek cünüp olarak sabahlamak da oruca bir zarar vermez. Ancak, zorunlu bir durum olmadıkça hemen boy abdesti alınmalıdır."
+},
+{
+"Daily_Question_Author":"Cünüp iken sahur yemeği yenebilir mi, oruca niyet edilebilir mi? ",
+"Daily_Question":"Cünüp olan kimsenin elini, ağzını yıkamadan yiyip içmesi uygun görülmemiştir. Ancak elini, ağzını yıkadıktan sonra, boy abdesti almadan sahur yemeği yemesinde bir sakınca yoktur."
+},
+{
+"Daily_Question_Author":"Uzman bir doktorun oruç tutmamasını önerdiği kimse ne yapmalıdır? ",
+"Daily_Question":"Uzman bir doktorun oruç tutmamasını önerdiği kimse ne yapmalıdır? Uzman doktorların, oruç tutmasının sağlık açısından zararlı olacağı teşhisini koyduğu bir hasta, Ramazanda oruç tutmayabilir. Şayet hastalığı geçici ise tutmadığı oruçlarını iyileşince kaza eder. Hastalığı kalıcı ise oruç tutamadığı her gün için bir fidye verir. Bir ayet-i kerimede şöyle buyrulmaktadır: “Oruç, sayılı günlerdedir. Sizden kim hasta, ya da yolculukta olursa, tutamadığı günler sayısınca başka günlerde tutar. Oruca gücü yetmeyenler ise bir yoksul doyumu fidye verir. Bununla birlikte, gönülden kim bir iyilik yaparsa (mesela fidyeyi fazla verirse) o kendisi için daha hayırlıdır. Eğer bilirseniz oruç tutmanız sizin için daha hayırlıdır.” Fidyenin miktarı sadakayı fıtır miktarı kadardır. Fidyeler Ramazan'ın başlangıcında verilebileceği gibi, Ramazan'ın içinde veya sonunda da verilebilir. Fidyenin tamamı bir fakire topluca verilebileceği gibi, ayrı ayrı fakirlere de verilebilir. Bu durumda olan kimseler, fidye vermeye gücü yetmiyorsa Allah'tan bağışlanmalarını isterler."
+},
+{
+"Daily_Question_Author":"Zekât nedir? ",
+"Daily_Question":"Sözlükte artma, çoğalma, temizlik, bereket, iyi hâl ve övgü anlamlarına gelen zekât, dinî bir terim olarak, belirli bir malın bir kısmının Allah rızası için dinen zekât alabilecek durumdaki muayyen kişilere verilmesi demektir. Malî ibadetlerden biri olan zekât, İslam'ın beş temel esasından olup, hicretin ikinci yılında Medine'de farz kılınmıştır. Kur'an-ı Kerim'de ”Namazı dosdoğru kılın, zekâtı verin...” (Bakara, 2/43, 110; Hac, 22/78; Nur, 24/56; Mücadele, 58/13; Müzzemmil, 73/20); ”Onların mallarından, kendilerini temizleyeceğin, arıtıp yücelteceğin bir sadaka al ve onlar için dua et; çünkü senin duan onlara huzur verir. Allah işitendir, bilendir.” (Tevbe,9/103) buyrulmaktadır."
+},
+{
+"Daily_Question_Author":"Nisap ne demektir? Miktarı ne kadardır? ",
+"Daily_Question":"Nisap, zekât, sadaka-i fıtır ve kurban gibi ibadetler için konulan bir zenginlik ölçüsüdür. Nisap, asgarî zenginlik ölçüsü şeklinde de tanımlanabilir. Borcundan ve aslî ihtiyaçlarından fazla olarak bu kadar mala sahip olan kişi dinen zengin sayılır. Böyle bir kişi, zekât veya sadaka alamayacağı gibi; sadaka-i fıtır vermek ve kurban kesmekle de yükümlü olur. Borçtan ve aslî ihtiyaçlarından fazla olan bu malın artıcı olması ve üstünden bir yıl geçmesi hâlinde zekâtının verilmesi gerekir. Zenginliğin asgari sınırı olan ”nisap” Hz. Peygamber tarafından belirlenmiştir. Bu asgarî sınırlar, o dönem İslam toplumunun ortalama hayat standardını ve zenginlik ölçüsünü göstermektedir. Hadislerde belirlenen nisap miktarları şöyle sıralanabilir; 80,18 gr. altın veya bunun tutarında para veya ticaret malı; 40 koyun veya keçi, 30 sığır, 5 deve. Nisap miktarının belirlenmesinde kullanılan bu malların, o dönemin en yaygın zenginlik aracı olduğu açıktır. Nisabın bu mallar üzerinden belirlenmesi, sosyal ve ekonomik şartların fazla değişmediği ileriki dönemlerde de aynen korunmuştur."
+},
+{
+"Daily_Question_Author":"Havaic-i asliye (asli ihtiyaçlar) nedir? ",
+"Daily_Question":"Havaic-i asliyye, temel ihtiyaçlar demektir. Fıkhi değerlendirmelerde temel ihtiyaçları karşılayan, bu yüzden de zekâta tabi olmayan maddi varlıklar havaic-i asliye olarak ifade edilir. İslam'da diğer bedenî ve malî yükümlülüklerde olduğu gibi, zekâtta da mükellefin durumu göz önünde bulundurularak, ona makul ve taşınabilir bir sorumluluk yüklenmiştir. Bu nedenle İslam bilginleri, zekât ve sadaka-i fıtr ile yükümlü olmak için, kişinin ve bakmakla yükümlü olduğu aile bireylerinin temel ihtiyaçlarından fazla olarak nisap miktarı mala sahip olma şartını aramışlardır. Temel ihtiyaç miktarı mal, kişinin yaşaması için zarurî olan miktardır. Temel ihtiyaç maddeleri insanın hayat ve hürriyetini korumak için muhtaç olduğu şeylerdir. Bunlar, genel olarak, nafaka, oturulan ev, ev eşyası, ihtiyaç duyulan elbise, borç karşılığı mal, sanat ve mesleğe ait alet ve makineler, binek taşıtları, ilim için edinilen kitaplar gibi eşyadır."
+},
+{
+"Daily_Question_Author":"Araç-gereç ve malzemeye zekât düşer mi? ",
+"Daily_Question":"Sanat ve mesleğin icrası için gerekli olan araç gereç, makine ve malzemeler, aslî ihtiyaçlardan olup bunların zekâtının verilmesi gerekmez. Ancak, kendi mesleğinin icrası için değil de, ticaret için üretilen veya ticari amaçla alınıp satılan araç-gereç, malzeme ve makinelerin zekâtının verilmesi gerekir."
+},
+{
+"Daily_Question_Author":"Ticaret malının zekâtı kendi cinsinden ödenebilir mi? ",
+"Daily_Question":"Ticaret mallarının zekâtı, malın değeri üzerinden hesaplanıp parayla verilebileceği gibi, malın kendi cinsinden de verilebilir."
+},
+{
+"Daily_Question_Author":"Alacaklar zekâta mahsup edilebilir mi? ",
+"Daily_Question":"Ödeme güçlüğü çeken borçlu kişi, kendisine zekât verilebilecek kişilerden ise, böyle bir kişide alacağı bulunan kişi, ondaki alacaklarını zekâta mahsup edebilir."
+},
+{
+"Daily_Question_Author":"Hayvanların zekâtı yerine değeri verilebilir mi? ",
+"Daily_Question":"Malın zekâtı, kendi cinsinden verilebileceği gibi belli olan başka maddelerden de verilebilir. Buna göre, hayvanların zekâtını vermek isteyen kimse, kendi cinsinden verebileceği gibi, değerleri üzerinden de verebilir. Ancak fakirin yararına olanı tercih etmek daha uygundur."
+},
+{
+"Daily_Question_Author":"Büluğ çağına ermemiş zengin çocuğun malından zekât gerekir mi? ",
+"Daily_Question":"Akıllı olmayan ve büluğ çağına ermemiş olan kişiler, dinen mükellef olmadıklarından zekât ile sorumlu değildirler. Ancak, zenginlerin malında fakirlerin hakkı olduğu için, zengin olan çocuk ve deliler kendileri mükellef olmasa da, veli veya vasilerince bunların mallarından zekât verilmelidir. Nitekim Kur'an-ı Kerim'de; ”Onların mallarında muhtaç ve yoksullar için bir hak vardır” buyurulmaktadır. (Zâriyât, 51/19) (Namaz ve oruçla yükümlü olmada aranan şartlar, ilke olarak zekâtta da aranır. Ancak zekât, sosyal yardımlaşma ve dayanışma içeriği taşıyan malî bir ibadet olması ve ihtiyaç sahiplerinin haklarını da ilgilendirmesi sebebiyle, diğer ibadetlerde aranan akıl ve ergenlik (büluğ) şartının bunda da aranıp aranmayacağı İslam bilginleri arasında tartışma konusu olmuştur. Çocukların ve akıl hastalarının ”öşür” denen toprak ürünleri zekâtından sorumlu olduklarında görüş birliği bulunmakla birlikte, bunların zekâta tabi diğer mallarından zekât alınıp alınmayacağı konusunda farklı iki görüş ileri sürülmüştür. Buna göre İslam bilginlerinin bir kısmı, çocukların ve akıl hastalarının zekâtla yükümlü olmadığını savunurken, diğerleri bunun aksi görüşü dile getirmişlerdir. Sonuç olarak, aklî dengesi yerinde olmayan ve büluğ çağına erişmemiş kişiler, dinen yükümlü olmadıklarından zekât vermekle de sorumlu değildirler. Ancak, zenginlerin malında fakirlerin bir hakkı bulunması (Zâriyât, 51/19) ve zenginliğin borcu diyebileceğimiz zekâtın topluma karşı bir yükümlülük mahiyeti taşıması sebebiyle zengin olan çocukların ve akıl hastalarının kendileri mükellef olmasalar da, velileri veya vasileri tarafından bunların mallarından zekât verilebilir.)"
+},
+{
+"Daily_Question_Author":"Üvey anne, üvey baba ve üvey çocuklara zekât verilebilir mi? ",
+"Daily_Question":"Kocası ölmüş ise üvey anneye, büluğ çağına erişip evden ayrılmış ise üvey çocuklara ve üvey babaya, fakir olmaları hâlinde zekât verilebilir. Çünkü bunlarla zekâtı veren kişi arasında usul (bir kimsenin anası, babası, dedeleri) ve füru (çocukları ve torunları) ilişkisi olmadığı gibi, zekât veren şahıs bunlara bakmakla yükümlü de değildir."
+},
+{
+"Daily_Question_Author":"Damat ve geline zekât verilebilir mi? ",
+"Daily_Question":"Fakir olan damada zekât verilebilir. Koca eşine bakmakla yükümlü olduğundan, kişinin gelinine zekât vermesi dolaylı olarak kendi oğluna zekât vermesi gibidir. Bu itibarla, geline zekât vermek- geçerli olmakla birlikte- uygun değildir."
+},
+{
+"Daily_Question_Author":"Kayınvalide ve kayınpedere zekât verilebilir mi? ",
+"Daily_Question":"Kayınvalide ve kayınpeder, kişinin bakmakla yükümlü olduğu kimselerden olmadığı için, fakir iseler kendilerine zekât verilebilir."
+},
+{
+"Daily_Question_Author":"Sivil toplum kuruluşlarına zekât verilebilir mi? ",
+"Daily_Question":"Zekâtın verileceği yerler, Tevbe suresinin 60. ayetinde belirlenmiştir. Buna göre zekât, ilke olarak fakirlerin ve ihtiyaç sahibi bireylerin hakkıdır. Bu itibarla, belirli şartları taşıyan Müslümanların yükümlü oldukları zekat ve fıtır sadakasının, Kur'an-ı Kerim'de belirlenen yerler dışında herhangi bir yere verilmesi veya cami, köprü, yol, okul, su gibi hayır işlerine sarf edilmesi, Hanefîlerce caiz görülmemiştir. Bu esas gözetilmeksizin zekât niyeti ile yapılan ödemeler zekât yerine geçmez. Zekât bu kimselere doğrudan teslim edilebileceği gibi, aracı vasıtası ile de ulaştırılabilir. Bu aracının birey olması ile kurum olması arasında fark yoktur. Buna göre bir sivil toplum kuruluşu, toplayacağı zekâtları Kur'an'da belirlenen yerlere/fakir ve ihtiyaç sahiplerine ulaştırıyorsa aracı konumunda olan bu kuruluşlara zekat emanet edilebilir. Zekâtı hak sahiplerine ulaştırmayıp genel hizmetleri içinde değerlendirecek olan sivil toplum kuruluşlarına ise zekât verilmez. Halka hizmet veren bu gibi kurumların varlıklarını sürdürmeleri için desteklenmeleri gereklidir. Ancak bu zekât dışında gönüllü yardımlar yolu ile yapılmalıdır."
+},
+{
+"Daily_Question_Author":"Sütanne-babaya zekât verilir mi? ",
+"Daily_Question":"Usul ve furûa yani anne, baba, dede ve nine­lerle, çocuk ve torunlara zekât verilmez. Çünkü kişi bakmakla yükümlü olduğu bu kimselere zekât verecek olsa verdiği zekât dolaylı yoldan kendisine dönmüş olacaktır. Oysa zekât veren, verdiği zekâttan hiçbir maddî menfaat beklememeli ve ondan yararlanmamalıdır. Ayrıca bu durumda, zekât olarak verilen malın ihtiyaç sahibinin mülkiyetine geçirilmiş olması şartı da ihlal edilmiş olur. Sütanne ve baba ise kişinin bakmakla yükümlü olduğu kimselerden olmadığı için onlara zekât verilebilir."
+},
+{
+"Daily_Question_Author":"Fakir gençleri evlendirmek ve sünnet ettirmek için harcanan para zekât yerine geçer mi? ",
+"Daily_Question":"Kendilerine zekât verilecek gruplardan biri de fakirlerdir (Tevbe, 9/60). Bir kişi zekâtını, elindeki malın cinsinden verebileceği gibi bedeli olan başka mallardan da verebilir. Bu itibarla evlenecek kişiye, zekât alma şartlarını taşıyor ise, ihtiyacı olan eşyalar zekât olarak verilebilir. Velisi fakir olan çocukların sünnet masrafları da zekat niyetiyle karşılanabilir."
+},
+{
+"Daily_Question_Author":"Bir firma, çalışanlarına dağıttığı yardımları zekât yerine sayabilir mi? ",
+"Daily_Question":"Zekât esas olarak fakirin hakkıdır. Kimlere ve nerelere verileceği Kur'an-ı Kerîm'de belirlenmiştir (Tevbe, 9/60). Buna göre firma tarafından yapılacak olan yardım ve bağışların zekâta mahsup edilebilmesi için bağışların; a) Zekât niyetiyle verilmesi, b) Kendilerine mal veya para verilen kişilerin zekât alması caiz olanlardan olması, c) Zekât olarak verilen para veya malların kurumların ihtiyaçlarına harcanmaması, d) Firma bir şirketse, ortakların zekât verme konusunda yöneticileri yetkili kılması, kayıtları ile verilmesi gerekir."
+},
+{
+"Daily_Question_Author":"Zekât vaktinden önce verilebilir mi? ",
+"Daily_Question":"Oruç ve hac ibadetlerinde olduğu gibi zekât konusunda da kameri ay hesabı uygulanır. Zekâtın farz olması için nisap miktarı malın üzerinden bir kameri yılın geçmesi gerekir. Buna rağmen mal sahibi dilerse vakti gelmeden önce de nisap miktarına ulaşan malının zekâtını verebilir."
+},
+{
+"Daily_Question_Author":"Taksitli olarak zekât verilebilir mi? ",
+"Daily_Question":"Asıl olan kişinin üzerine terettüp eden zekâtı ödemesidir. Bu itibarla, zekât bir defada ödenebileceği gibi, taksitle de ödenebilir."
+},
+{
+"Daily_Question_Author":"Ticaret malının zekâtı neye göre hesaplanır? ",
+"Daily_Question":"Kâr amacıyla alınıp satılan mallara ”ticaret malları” denir. Borçtan ve aslî ihtiyaçlarından fazla 80.18 gr. Altın değerinde ticaret malına sahip olan kişinin, bu malın elde edilmesinin üzerinden bir yıl geçmesi hâlinde, kırkta bir (%2,5) oranında zekâtını vermesi gerekir. Zekât, ileride elde edilmesi muhtemel kârdan değil, mevcut sermayeden ödenmesi gereken mali bir ibadettir. Bu itibarla, ticaret malının zekâtı verilirken, kârsız olarak zekâtının verildiği tarihteki değeri esas alınır."
+},
+{
+"Daily_Question_Author":"Alacakların zekâtı nasıl verilir? ",
+"Daily_Question":"Geri ödeneceği kesin olan alacakların, her yıl alacaklı tarafından zekâtlarının ödenmesi gerekir. Alacak tahsil edilmeden önce zekâtı verilmemişse, tahsil edildikten sonra, geçmiş yıllara ait zekâtlar da ödenmelidir. İnkâr edilen veya geri alınma ihtimali olmayan alacakların her yıl zekâtının verilmesi gerekmez. Şayet böyle bir alacak daha sonra ödenirse, alacaklı bu tarihten itibaren zekât mükellefi olur; geçmiş yıllar için zekât ödemez."
+},
+{
+"Daily_Question_Author":"Arazi mahsulünden zekât verilmesi gerekir mi? ",
+"Daily_Question":"Odun, kamış (şeker kamışı hariç) ve ottan başka topraktan elde edilen her türlü ürünün, nisap miktarına ulaşması hâlinde (yaklaşık 650 kg.) zekâtının verilmesi gerekir. Yüce Allah; ”Ey iman edenler! Kazandıklarınızın iyilerinden ve rızık olarak yerden size çıkardıklarımızdan infak edin...” (Bakara, 2/267); ”Çardaklı ve çardaksız (üzüm) bahçeleri, ürünleri çeşit çeşit hurmaları, ekinleri, birbirine benzer ve benzemez biçimde zeytin ve narları yaratan O'dur. Herbiri meyve verdiği zaman meyvesinden yeyin. Devşirilip toplandığı gün de hakkını (zekât ve sadakasını) verin, fakat israf etmeyin; çünkü Allah israf edenleri sevmez.” (En'am, 8/141) buyurmaktadır. Hz. Peygamber de, ”yağmur ve nehir sularıyla sulanan toprak mahsullerinde onda bir; kova(el emeği) ile sulananlarda ise yirmide bir vardır” buyurmuştur. (Buhârî, ”Zekât”, 55) Hadiste de belirtildiği gibi, mahsulün zekâtının verilmesinde toprağın işlenmesi ve su kullanımı esas olarak alınmaktadır. Buna göre toprak emek sarf edilmeden yağmur, nehir, dere, ırmak ve bunların kanallarıyla sulanıyorsa, çıkan mahsulün 1/10'i; kova, dolap gibi emekle veya suyun ücretle alınması, motorla sulama gibi masraf gerektiren bir yolla sulanıyorsa 1/20'i zekât olarak verilir."
+},
+{
+"Daily_Question_Author":"Ürün elde etmek için yapılan masraflar, öşür verilirken dikkate alınır mı? ",
+"Daily_Question":"Günümüzde gübre, mazot, ilaç gibi masraflar da üretimin maliyetinde önemli bir yekûn oluşturmaktadır. Bu nedenle, tarımsal ürünlerin zekâtında, elde edilen hasılattan (gayr-i safi), ürün için yapılan günümüz tarım şartlarının getirmiş olduğu ekstra masraflar çıkarıldıktan sonra, geriye kalan ürünün nisap miktarına ulaşması hâlinde, tabiî yollarla sulanan arazide 1/10, kova, tulumba, su motoru vb. usullerle masraf veya emekle sulanan arazide 1/20 oranında zekât verilmesi gerekir."
+},
+{
+"Daily_Question_Author":"Ortak olarak ekilen bir tarlanın ürününün zekâtını vermekle kim yükümlüdür? ",
+"Daily_Question":"Arazi mahsullerinin öşrünü, arazi sahibi değil, ürünün sahibi verir. Bu itibarla mal sahibi hiçbir karşılık beklemeden tarlasını ekilmek üzere başka birisine verirse, çıkan mahsulün zekâtını eken şahıs öder. Arazi ekilmek üzere belli bir ücretle kiralanmışsa, zekâtı (öşrü) kiracı tarafından ödenir. Eğer arazi, yarıcılık (müzâraa) usulü ile kiralanmışsa, mal sahibi ve mahsulü eken kişi, hisselerine düşen mahsulün zekâtlarını ayrı ayrı verirler."
+},
+{
+"Daily_Question_Author":"Ziynet eşyasına zekât verilir mi? ",
+"Daily_Question":"Altın ve gümüş dışındaki ziynet eşyaları zekâta tabi değildir. Altın ve gümüşten yapılmış ziynet eşyaları ise, zekât için gerekli diğer şartları da taşıdığı takdirde zekâta tabidir. Bu itibarla altından yapılmış ziynet eşyaları, 80.18 gr. Veya daha fazla ve üzerinden bir yıl geçmiş ise zekâta tâbidir."
+},
+{
+"Daily_Question_Author":"Emlakçılar, mülkiyetlerindeki dairelerin zekâtını vermekle yükümlü müdürler? ",
+"Daily_Question":"Emlakçıların ticari amaçlı olarak alıp sattıkları daireler zekâta tabidir. Buna göre, büro, ikamet gibi kullanım amaçlı olmayıp alıp satmak için emlakçıların ellerinde bulunan dairelerin, borçları çıktıktan sonra piyasa değeri nisap miktarına ulaşmış ve üzerinden bir yıl geçmiş ise kırkta bir oranında zekâtının verilmesi gerekir."
+},
+{
+"Daily_Question_Author":"Şirket ortakları nasıl zekât verirler? ",
+"Daily_Question":"Fiilî olarak bir şirketin ortağı olan kişi, şirketin büro, alet vb. duran varlıkları dışındaki dönen varlığından kendi hissesine düşen miktarın, nisaba ulaşması ve üzerinden bir yıl geçmesi hâlinde zekâtını vermesi gerekir. Sanayi sektöründe faaliyet gösteren şirketlerin; duran varlıkları (üretim aletleri, makine vb.) zekâttan muaf; borçlar, malzeme, işçilik, üretim, pazarlama, yönetim, finansman vb. giderlerin maliyet hesapları yapılıp çıkarıldıktan sonra dönen varlıkları (yarı mamul ve üretilmiş mallar, hammaddeler, nakit para, çek vs.) ise net kâr ile birlikte % 2,5 (Kırkta bir) oranında zekâta tabidir."
+},
+{
+"Daily_Question_Author":"Hisse senetleri zekâta tâbi midir? ",
+"Daily_Question":"Borsada alınıp satılan hisse senetlerine yatırım yapan kişinin, sahip olduğu hisse senetlerinin değeri, nisap miktarına ulaşması ve üzerinden bir yıl geçmesi hâlinde % 2,5 (Kırkta bir) oranında zekâtını vermesi gerekir. Fiilî olarak bir şirketin ortağı olan kişi ise, şirketin büro, alet vb. duran varlıkları dışındaki dönen varlığının, nisap miktarına ulaşması ve üzerinden bir yıl geçmesi hâlinde zekâtını vermesi gerekir."
+},
+{
+"Daily_Question_Author":"Farklı ayarda altını bulunan kimse zekâtını nasıl hesaplar? ",
+"Daily_Question":"Zekâta tabi olma açısından altındaki ayar farkı önemli değildir. Çünkü hangi ayarda olursa olsun, sonuç itibariyle altın hükmündedir. Buna göre farklı ayarda da olsa bütün altın çeşitleri tek başlarına veya diğer ayardaki altınlarla birlikte toplam ağırlıkları 80,18 gr.'a ulaştığında, diğer şartları da taşıması hâlinde zekâta tabidir. Bu durumda farklı ayarlardaki altınların zekâtı, değerleri üzerinden hesaplanarak, % 2,5 oranında verilir."
+},
+{
+"Daily_Question_Author":"Gayr-i meşru yolla sağlanan kazançtan zekât vermek gerekir mi? ",
+"Daily_Question":"Gayr-i meşru yolla sağlanan kazancın sahibi belli ise, bu kazancın sahibine iade edilmesi; belli değil ise, karşılığında sevap beklemeksizin yoksullara veya hayır kurumlarına verilerek elden çıkarılması gerekir. Bu itibarla, gayr-i meşru yolla elde edilen kazancın tamamı ya sahibine iade edilerek veya hayır yolda harcanarak elden çıkarılacağından, zekâtının verilmesi söz konusu değildir."
+},
+{
+"Daily_Question_Author":"Temel ihtiyaçlar için biriktirilen para zekâta tabi midir? ",
+"Daily_Question":"Aslî ihtiyaçlar; ev, ev eşyası, giyecek, ulaşıma aracı ve yiyecek gibi hayatın güvenli ve sağlıklı bir şekilde devamı için gerekli olan şeylerdir. Bu ihtiyaçları temin etmek için biriktirilen paralarla onları karşılamak üzere sözlü ya da yazılı herhangi bir taahhüde girilmişse o takdirde bu paralardan zekât vermek gerekmez. Çünkü sözlü ya da yazılı taahhüde girildiğinde bu para, artık temel ihtiyaç için harcanmış demektir. Ancak böyle bir taahhüde bağlanmamış paranın, nisap miktarına ulaşması ve üzerinden bir yıl geçmesi hâlinde, zekâtının verilmesi gerekir."
+},
+{
+"Daily_Question_Author":"Belediye, dernek, vakıflarca hazırlanan ve aşevlerinde dağıtılan iftar yemekleri zekât/fitre yerine geçer mi? ",
+"Daily_Question":"Belediye, dernek veya vakıflarca hazırlanıp, ikram edilen iftar yemekleri zekât yerine geçmez. Çünkü bu ikramda, zekâtın sıhhat şartı olan temlik bulunmadığı gibi, iftar yemeği yiyenler arasında kendilerine zekât verilmesi caiz olmayan birçok kişi de bulunmaktadır. Ancak hazırlanan yemekler zekât niyetiyle yoksulların evine gönderilir veya kendilerine verilirse zekât olur."
+},
+{
+"Daily_Question_Author":"Fakir, güçsüz, zayıf insanların sağlık tedavilerini yaptıran vakıf, dernek gibi kuruluşlara zekât verilebilir mi? ",
+"Daily_Question":"Fakir, güçsüz, zayıf insanların sağlık tedavilerini yaptıran vakıf, dernek gibi kuruluşlara zekât verilebilir mi? Zekât ve fıtır sadakasının sahih olmasının şartlarından biri temliktir. Temlik bir kimseye mal değeri olan bir şeyi, kayıtsız şartsız onun malı olmak üzere vermek, yani o kimseyi, o şeye malik kılmak demektir. Bu itibarla fakirlere temlik etmek üzere zekât ve fıtır sadakalarını ayrı bir fonda toplayan ve her bakımdan kendilerine güvenilen kimseler eliyle yönetilen dernek ve kurumlara (muhtaçlara ulaştırmaları için yöneticileri, vekil tayin edilerek) zekât ve fıtır sadakası verilebilir. Anılan dernek ve vakıflar, zekât almaları caiz olan kimselerin, tedavileri için, zekât almak ve aldıkları zekâtı bu ihtiyaçlara sarf etmek üzere bunlardan vekâlet aldıkları takdirde, onlar adına zekât alabilirler. Henüz ergenlik çağına varmamış küçükler için de bunların velilerinden vekâlet almak gerekir. Şüphesiz vekâlet verilecek kişilerin her bakımdan güvenilir kimseler olmaları ve toplanacak zekâtın başka işlere harcanmaması gerekir. Adı geçen vakıf ve kuruluşlarda tedavi gören ancak fakir olmayan insanlara zekât, fitre ve fidye gelirlerinden harcama yapılamaz."
+},
+{
+"Daily_Question_Author":"Fitre miktarı nedir? ",
+"Daily_Question":"Fıtır Sadakası, Ramazan bayramına kavuşan ve aslî ihtiyaçlarının dışında belli bir miktar mala sahip olan Müslümanların, kendileri ve velâyetleri altındaki kişiler için, yerine getirmekle yükümlü oldukları malî bir ibadettir. Yoksulların ihtiyaçlarının karşılanmasına katkıda bulunmak suretiyle, toplumda karşılıklı sevgi ve kardeşlik bağlarının pekişmesine vesile olan bu mali ibadetin meşru kılınmasındaki temel hedeflerden biri, insanların paylaşma bilincini canlı tutmaktır. Bu sayede her müslüman, ihtiyacı olan yoksullara az da olsa bir şeyler verebilmenin ve yardımlaşmanın sevincini yaşar. Bundan dolayıdır ki fıtır sadakası, zekâttan farklı olarak, daha geniş bir mükellef kitlesi tarafından yerine getirilir. Diyanet İşleri Bakanlığı'nca 2021 yılı Ramazan ayının başlangıcından 2022 yılı Ramazan ayının başlangıcına kadar en düşük SADAKA-İ FITIR MİKTARI 28 TL (YİRMİ SEKİZ LİRA) olarak belirlenmiştir. Miktar belirlenirken hadis-i şerifler, ülkenin mevcut şartları ve bir kişinin günlük asgari gıda ihtiyacı göz önüne alınmıştır. Belirlenen bu miktar, "asgari miktar" olup, sadaka-i fıtırda verilecek meblağ konusunda bir üst sınır bulunmamaktadır. Bu konuda ideal olan, herkesin kendi hayat standartlarına göre asgari günlük gıda harcamalarına denk düşecek bir meblağı vermesidir. Söz konusu meblağ, gıda gibi ayni olarak veya para şeklinde nakdi olarak ödenebilir"
+},
+{
+"Daily_Question_Author":"Sadaka-i fıtır ne demektir, hükmü nedir? ",
+"Daily_Question":"Halk arasında fitre denilen sadaka-i fıtır, Ramazan ayının sonuna yetişen ve aslî ihtiyaçlarından başka, artıcı olma ve üzerinden bir yıl geçme şartı aranmaksızın nisap miktarı mala sahip bulunan her Müslüman'ın vermesi vacip olan mali bir ibadettir. Sadaka-i fıtır, insan fıtratındaki yardımlaşma ve dayanışmanın bir gereği olarak insan bedeninin zekâtı kabul edilmiştir. Bu nedenle sadaka-i fıtr'a, ”can sadakası” veya ”beden sadakası” da denilmektedir. Diğer taraftan fitre, yoksulların ihtiyaçlarının giderilmesinde, bayram gününün neşesinden onların da istifade etmelerinde önemli bir rol oynar."
+},
+{
+"Daily_Question_Author":"Kimler sadaka-i fıtır vermekle yükümlüdür? ",
+"Daily_Question":"Sadaka-i fıtır, borcundan ve aslî ihtiyaçlarından fazla olarak nisap miktarı mala sahip olan her Müslüman'a vaciptir. Bireyin sadaka-i fıtır ile mükellef olması için öngörülen zenginlik ölçüsü, zekâtta aranan nisaptır. Ancak sadaka-i fıtırda, zekâtta öngörülen, malın artıcı olması ve üzerinden bir yıl geçmesi şartı aranmamaktadır."
+},
+{
+"Daily_Question_Author":"Sadaka-i fıtır ne zaman verilir? ",
+"Daily_Question":"Sadaka-i fıtır, Ramazan Bayramı'nın birinci günü tan yerinin ağarmasıyla vacip olmakla birlikte, Ramazan ayı içinde de verilebilir. Hatta fakirlerin bayram ihtiyaçlarını karşılamaları için, bayramdan önce verilmesi daha iyidir. Ancak Bayram sabahına kadar sadaka-i fıtır verilmemiş ise, Bayram günlerinde ödenmesi gerekir. Zamanında ödenmeyip sonraya kalan fitreler ise, mümkün olan ilk fırsatta ödenmelidir."
+},
+{
+"Daily_Question_Author":"Sadaka-i fıtrın, buğday, arpa, hurma veya üzüm olarak verilmesi zorunlu mudur? ",
+"Daily_Question":"Hadislerde sadaka-i fıtrın miktarı, arpa, hurma veya üzümden bir sâ' (yaklaşık 2.917 gram) buğdaydan yarım sâ' olarak belirlenmiştir. Sadaka- i fıtrın bu sayılan maddelerden belirlenmesi, o günkü toplumun ekonomik şartları ve beslenme alışkanlıklarından kaynaklanmaktadır. Hz. Peygamber ve sahabe dönemindeki uygulamalar dikkate alındığında, sadaka-i fıtır miktarı ile, bir fakirin, içinde yaşadığı toplumdaki orta hâlli bir ailenin hayat standardına göre bir günlük yiyeceğinin karşılanmasının hedeflendiği anlaşılmaktadır. Buna göre günümüzde sadaka-i fıtır, bir kişinin bir günlük normal gıda ihtiyacını karşılayacak miktar, aynî gıda yardımı olarak verilebileceği gibi, bunun değerinde nakit de verilebilir. Ancak fakirin yararına olanı tercih etmek daha uygundur."
+},
+{
+"Daily_Question_Author":"Yurt dışında çalışan kişi, fitreyi Avrupa şartlarına göre mi yoksa Türkiye şartlarına göre mi verir? ",
+"Daily_Question":"Ülke ve bölgelere göre geçim standartları farklı olduğundan, sadaka-i fıtır mükellefinin kendi bulunduğu yere göre bir kişinin bir günlük normal gıda ihtiyacını karşılayacak miktar üzerinden sadaka-i fıtrını vermesi gerekir."
+},
+{
+"Daily_Question_Author":"Vaktinde ödenmeyen sadaka-i fıtır borcu nasıl ödenir? ",
+"Daily_Question":"Bütün ibadetlerde olduğu gibi sadaka-i fıtır yükümlülüğü de geciktirilmeyip zamanında yerine getirilmelidir. Bununla birlikte zamanında ödenmemişse, bu fitrelerin mümkün olan ilk fırsatta ödenmesi gerekir."
+},
+{
+"Daily_Question_Author":"Sadaka-i fıtır kimlere verilir, kimlere verilemez? ",
+"Daily_Question":"Sadaka-i fıtır, zekât verilebilecek kimselere verilir. Zekât verilmesi caiz olmayan kişilere sadaka-i fıtır da verilmez."
+},
+{
+"Daily_Question_Author":"Teravih namazının mahiyeti ve hükmü nedir? ",
+"Daily_Question":"Sözlükte rahatlatmak, dinlendirmek anlamlarına gelen terviha kelimesinin çoğulu olan teravih, dini bir terim olarak, Ramazan ayında, yatsı namazı ile vitir namazı arasında kılınan nafile namaz demektir. Teravih namazını dört rekatta bir selam vererek kılmak caiz ise de, iki rekatta bir selam vererek kılmak daha faziletlidir. Bu namazın her dört rekatının sonunda bir miktar oturulup dinlenmek müstehaptır. Bu dinlenmelerde tehlil (la ilahe illallah demek) ve salavat ile meşgul olunması uygundur. Teravih namazı, erkek ve kadınlar için sünnet-i müekkededir. Hz. Peygamber, “Kim inanarak ve sevabını Allah'tan bekleyerek Ramazan namazını (Teravih) kılarsa, onun geçmiş günahları bağışlanır” buyurmuşlardır (Buhari, “Salatü't-Teravih”, 1; Müslim, “Müsafirin”, 174)."
+},
+{
+"Daily_Question_Author":"Teravih namazını cemaatle veya tek başına kılmanın hükmü nedir? ",
+"Daily_Question":"Nafile namazların tek başına kılınması daha faziletli olduğu halde, teravih namazının cemaatle kılınması Hz. Peygamber (s.a.s.)'in uygulaması ile sabittir. Nitekim Hz. Peygamber teravih namazını birkaç defa cemaatle kıldırmış, ancak daha sonra farz olur düşüncesiyle cemaate kıldırmaktan vazgeçmiştir (Buhari, “Salatü't-Teravih”, 1; Müslim, “Müsafirin”, 177). Hz. Ömer halife olunca, halkın dağınık bir şekilde Teravih namazı kıldıklarını görüp, tekrar cemaatle kılınmasının daha hoş olacağını düşünmüş ve ashapla istişare ederek bu namazın yeniden cemaatle kılınmasını başlatmıştır. Halkın vecd içinde bu namazı kıldıklarını görünce, “ne güzel bir adet oldu” diyerek memnuniyetini belirtmiştir (Buhari, “Salatü't-Teravih”, 1). Hz. Ali de, bu uygulama sebebiyle “Ömer mescitlerimizi Teravihin feyziyle nurlandırdığı gibi, Allah da Ömer'in kabrini öyle nurlandırsın” diye dua etmiştir (el-Mutteki el-Hindi, Kenzu'l-Ummal, XII, 576)."
+},
+{
+"Daily_Question_Author":"Teravih namazı kaç rekattir? ",
+"Daily_Question":"Hz. Peygamber (s.a.s.)'in kıldırmış olduğu Teravih namazlarının kaç rekat olduğu konusunda bir rivayet bulunmamaktadır. Bu konuda Hz. Ömer'in Teravihi cemaatle kılınmasını başlatmasıyla ilgili haberlerden ve Hz. Aişe'nin, Hz. Peygamber (s.a.s.)'in Ramazan ayındaki gece namazlarıyla ilgili hadisinden hareketle bir sonuca ulaşılmaya çalışılmaktadır. Bu konudaki haberler şöyle değerlendirilebilir: Rasulullah'ın (s.a.s.) Ramazandaki gece namazları sorulduğunda, Hz. Aişe, “Rasulullah, Ramazan ve Ramazan dışındaki gecelerde on bir rekattan fazla (nafile namaz) kılmamıştır.” (Buhari, “Teheccüd”, 16) karşılığını vermiştir. Başka bir rivayette bu sayı on üç olarak zikredilmektedir (Müslim, “Salatü'l-Müsafirin”, 17). Öncelikle bu hadisin Teravih namazı hakkında olduğu konusunda bir açıklık bulunmamaktadır. Diğer taraftan Hz. Aişe'nin, Allah'ın elçisinin Ramazan ayında ve Ramazan dışındaki gecelerde on bir veya on üç rekat namaz kıldığını belirtmesi, onun devamlı olarak kıldığı bir gece namazının bulunduğunu göstermektedir. Zaten Kur'an-ı Kerim'de de, “Gecenin bir kısmında uyanarak, sana mahsus bir nafile olmak üzere namaz kıl. Umulur ki Rabbin, seni övgüye değer bir makama gönderir.” (İsra, 17/79) buyurulmaktadır. Bundan da anlaşılmaktadır ki, bu soru, Ramazan ayında Hz. Peygamber (s.a.s.)'in diğer ibadetlerinde olduğu gibi, gece namazlarında da bir artış olup olmadığını öğrenmek amacıyla sorulmuştur; teravih namazı ile ilişkisi yoktur. Hz. Aişe'den rivayet edilen, “Rasulullah (s.a.s.) Ramazan ayında, diğer aylarda görülmeyen bir gayrete girerdi. Ramazanın son on gününde ise çok daha şiddetli bir gayret gösterirdi. Son on günde, geceyi ihya eder, ailesini de uyandırırdı.” (Buhari, “Fazlu Leyleti'l-Kadr”, 5; Müslim, “İtikaf”, 8) hadisi bu görüşü desteklemektedir. Diğer yandan, bu hadisin teravihin meşru kılınmasından önce mi, yoksa sonra mı olduğu da belli değildir. Hz. Ömer zamanındaki cemaatle kılınan Teravih namazlarının rekatları konusunda iki rivayet vardır; yirmi rekat, on bir rekat (İbn Ebi Şeybe, Musannef, II, 391, 393). Hz. Ömer'in dönemiyle ilgili farklı rivayetler; Nevevi ve Ayni tarafından, on bir rekatla ilgili rivayetin Hz. Ömer'in halifeliğinin ilk döneminde kılınan Teravih namazlarıyla ilgili olduğu, sonra Teravihin yirmi rekat olarak yerleştiği ve günümüze kadar da böyle devam ettiği şeklinde açıklanmıştır (İbnü'l-Hümam, Fethu'l-Kadir, I, 334; Ayni, Umdetü'l-Kari, V, 357; Şevkani, Neylü'l-evtar, III, 61). Teravih namazı, Hz. Ömer, Hz. Osman ve Hz. Ali dönemlerinden başlayarak günümüze kadar cemaatle yirmi rekat olarak kılınmıştır. Sahabeden kimse buna itiraz etmemiş ve alimler tarafından da bu şekilde kabul edilmiştir. Günümüzde de, başta ülkemiz olmak üzere pek çok İslam ülkesinde Teravih namazı cemaatle 20 rekat olarak kılınmaktadır. Bununla birlikte şunu da ifade etmek gerekir ki, Teravih namazı nafile bir ibadet olduğundan, farz gibi telakki edilmesi de doğru değildir. Bu nedenle, yorgunluk, meşguliyet ve benzeri sebeplerle, Teravih namazının evde 8, 10, 12, 14, 16 veya 18 rekat kılınması halinde de sünnet yerine getirilmiş olur. Ancak cemaate iştirak etmeye çalışmak daha iyidir."
+},
+{
+"Daily_Question_Author":"Teravih namazı tek niyetle kılınabilir mi? Yoksa her selam verdikten sonra tekrar niyet etmemiz gerekir mi? ",
+"Daily_Question":"Teravih namazına başlarken niyet ettikten sonra her selam verişte yeniden niyet etmenin şart olup olmadığı konusunda Hanefi alimleri farklı görüşler belirtmişlerdir. Bir kısım alimler kılınan rekatların tümü temelde tek bir namaz olduğu düşüncesinden hareketle her iki veya dört rekatta selam verdikten sonra yeniden niyet etme zorunluluğunun bulunmadığını söylemişlerdir (İbn Nüceym, Bahru'r-raik, I, 294; Fetavay-ı Hindiyye, I, 117). Bir kısmına göre ise her dört rekatta niyet etmek şarttır Çünkü her dört rekat başlı başına bir namazdır. Zira selam vermekle fiilen namazdan çıkılmış olur. Bu sebeple yeniden namaza girmek için mutlaka niyet lazımdır. Tercih edilen görüş de budur (İbn Abidin, Reddu'l-muhtar, II, 494)."
+},
+{
+"Daily_Question_Author":"Oruç tutmayan bir kimsenin Teravih ve diğer beş vakit namazları geçerli olur mu? ",
+"Daily_Question":"Kişinin yerine getirmekle yükümlü olduğu ibadetlerin her birinin ayrı ayrı sorumluluğu bulunmaktadır. Her günah bağımsız olduğu gibi her ibadet de bağımsızdır. Birinin olmaması, diğerinin de reddine sebep olmaz. Kur'an-ı Kerim'de; “Artık kim zerre ağırlığınca bir hayır işlerse onun mükafatını görecektir. Kim de zerre ağırlığınca bir kötülük işlerse onun cezasını görecektir.” (Zilzal, 99/7-8) buyrulmaktadır. Bu bakımdan oruç tutmayan veya tutamayan kimsenin usulüne göre kıldığı beş vakit namaz ve Teravih namazı geçerlidir."
+}
+]
+SyntaxError: Unexpected token in JSON at position 2419
